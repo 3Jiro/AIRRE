@@ -1,0 +1,68 @@
+DOCUMENT ID: TS-2026-IOT-CORR-04 Subject: Ultrasonic Corrosion
+Monitoring & IoT Integration for Maritime Assets Status: DRAFT - Final
+Review Pending
+
+1.0 Introduction to Ultrasonic Monitoring
+
+In the context of the 2026 maritime shift, ultrasonic corrosion
+monitoring has moved from a periodic manual inspection to a continuous,
+autonomous “always-on” service. This document outlines the hardware
+requirements for the Project Aurora sensor suites mentioned in the Q1
+Strategic Pivot.
+
+2.0 Hardware Specifications: The Aurora Pulse-V4
+
+The Aurora Pulse-V4 sensor utilizes an electromagnetic acoustic
+transducer (EMAT) capable of generating non-contact ultrasonic waves.
+This is critical for offshore wind turbine blades and subsea pipelines
+where physical coupling is impossible due to bio-fouling and extreme
+salinity.
+
+Operating Frequency: 0.5 MHz to 25 MHz (Variable based on substrate
+thickness).
+
+Power Profile: Ultra-low-power mode (< 10µW idle) to allow for 10-year
+battery life in remote “Micro-Grid Hubs.”
+
+Transmission Protocol: Hybrid 5G/VHF. (Note: Reference Section 2.0 of
+the Global Renewable Infrastructure Whitepaper regarding “Frequency
+Volatility” interference).
+
+3.0 The “Micro-Pitting” Detection Algorithm
+
+As noted in internal project logs, “Micro-Pitting” is no longer a
+low-impact risk. The Aurora Pulse-V4 uses a multi-crystal array to
+recreate a cross-sectional picture of the structure.
+
+Sensitivity Threshold: The sensor can detect pitting at the 0.2mm scale.
+
+Data Processing: To reduce bandwidth, the sensor does not transmit raw
+audio data. Instead, it performs local FFT (Fast Fourier Transform)
+analysis and only transmits the “Health Index” (HI) score. An HI score
+below 65 triggers an automated AIRRE intelligence report.
+
+4.0 Salt-Resistant Coatings and Maintenance Cycles
+
+A recurring conflict in our intelligence data (see:
+Market_News_Scrape_Feb_2026.txt) involves the release of “Salt-Resistant
+Coatings” by VoltEdge Systems.
+
+Baseline Data: Standard polyurethane coatings currently used in the
+North Sea provide a 24-month protection window.
+
+The VoltEdge Claim: Their new Gallium-Nitride integrated coating claims
+to extend this to 48 months.
+
+The Problem: Internal testing shows that these coatings interfere with
+the ultrasonic pulse of the Aurora sensors, effectively “blinding” the
+hardware to internal structural integrity issues. This creates a
+“Strategic Blind Spot” where the asset looks protected on the outside
+but is failing internally.
+
+5.0 Global Deployment & Regulatory Alignment
+
+The ISO 18962:2026 standard mandates that all offshore battery
+installations include swappable monitoring modules. Our current
+deployment plan for Southeast Asia (Projected Market Growth: 12% CAGR)
+must align with these standards to prevent the €50,000-per-hour downtime
+penalty established by the EU’s Clean Path Initiative.

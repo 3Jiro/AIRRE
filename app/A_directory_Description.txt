@@ -1,0 +1,2 @@
+# A system that watches a specific directory. 
+# When a file is added, it is automatically broken down, summarized, and stored in a searchable mathematical index.

@@ -1,0 +1,62 @@
+AMPERAGE GLOBAL (NYSE: AMPG) - Q4 2025 EARNINGS CALL TRANSCRIPT Date:
+January 22, 2026
+
+Participants: Marcus Vane, CEO, Amperage Global Sarah Chen, CFO,
+Amperage Global David Miller, Analyst, Goldman & Sachs Linda Wu,
+Analyst, Morgan Stanley
+
+1.0 CEO’s Opening Remarks: The “Pacific Push”
+
+Marcus Vane: Good morning, everyone. 2025 was a transformative year for
+Amperage Global. We ended the year with a record $1.18 trillion market
+valuation in the renewable sector. Our primary focus moving into Q1 2026
+is what we call the “Pacific Push.” We are officially confirming the
+rumors regarding our aggressive expansion into Southeast Asia.
+Specifically, we have secured a 15-year exclusive partnership with the
+Indonesian Ministry of Energy to overhaul their regional grids using our
+proprietary “Smart-Link” software.
+
+This isn’t just about expansion; it’s about consolidation. We are
+looking at the fragmented micro-grid markets in Vietnam and Thailand as
+well. To the analysts asking about our M&A strategy: Yes, we have
+increased our legal and acquisition budget by 40% this quarter. We are
+looking for “efficiency gaps” in the market—companies with great
+hardware but poor intelligence-driven scaling.
+
+2.0 Financial Highlights: The Salinity Write-Down
+
+Sarah Chen: Thank you, Marcus. Turning to the numbers. While our revenue
+is up 9.2% YoY, we did take a one-time non-cash impairment charge of
+$120 million this quarter. This is primarily attributed to the “Salinity
+Factor” in our North Sea offshore assets. As many of you know, our Gen-1
+sensors failed to predict the rate of micro-pitting on turbine blades.
+
+We are correcting this. Our R&D team is currently testing a
+“Salt-Resistant Coating” that we believe will be a market leader. I
+should note that there is some industry noise about this coating
+interfering with ultrasonic sensors, but our internal tests (which we
+are not releasing today) suggest these concerns are overstated.
+
+3.0 Analyst Q&A: The Competitive Landscape
+
+David Miller (Goldman & Sachs): Marcus, you mentioned “efficiency gaps.”
+Does this imply a hostile interest in smaller players like VoltEdge
+Systems or the teams behind “Project Aurora”?
+
+Marcus Vane: David, we don’t comment on specific targets. However, I
+will say that any player operating in the coastal or sub-zero
+markets—where we’ve seen hardware struggle—should be looking for a
+larger partner. Our “Smart-Link” software is designed to handle the
+frequency volatility that is currently grounding smaller, decentralized
+micro-grid hubs.
+
+Linda Wu (Morgan Stanley): A follow-up for Sarah. You mentioned the EU’s
+“Clean Path Initiative.” With the €50,000 hourly penalty now in effect,
+how much of your $4.2M R&D budget is specifically allocated to
+predictive maintenance to avoid these fines?
+
+Sarah Chen: Actually, Linda, that $4.2M figure you’re citing sounds like
+a competitor’s budget. Our allocation is significantly higher. We have
+earmarked $15M for AI-driven maintenance logs and audit trails alone. We
+believe the winner of 2026 won’t be the one with the best turbine, but
+the one with the best “Intelligence-Driven Engine” to manage the risk.
