@@ -1,0 +1,7 @@
+echo "__pycache__/" >> .gitignore
+echo "*.pyc" >> .gitignore
+echo "*.db" >> .gitignore
+echo "*.index" >> .gitignore
+echo "*.pkl" >> .gitignore
+echo "data/" >> .gitignore
+echo ".env" >> .gitignore
